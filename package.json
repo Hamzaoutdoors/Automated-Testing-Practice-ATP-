@@ -1,0 +1,23 @@
+{
+  "name": "automated-testing-practice-atp-",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamzaoutdoors/Automated-Testing-Practice-ATP-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamzaoutdoors/Automated-Testing-Practice-ATP-/issues"
+  },
+  "homepage": "https://github.com/Hamzaoutdoors/Automated-Testing-Practice-ATP-#readme"
+}
