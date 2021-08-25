@@ -1,65 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Automated Unit Testing With Jest - Best Practice
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+> In this exercise, I write a few practical tests for JavaScript functions using the Jest library. I make sure to follow the AAA pattern to make my tests easier for other developers to read and understand. I also try to use the TDD approach in practice.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
+- Jest
+- JavaScript
+- VS Code
+- Git & GitHub
+### Prerequisites
+You need to have node installed in your computer ``npm install``
+### Install
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
+ - Open terminal
+ - Clone this project using the command git clone ``https://github.com/Hamzaoutdoors/Automated-Testing-Practice-ATP-``
+ - ``cd <clone>`` folder
 ### Run tests
 
-### Deployment
-
-
-
+ - Run ``npm install`` to install project dependencies.
+ - Run ``npm run test`` in your local browser to see Jest in action and test passing.
 ## Authors
 
-👤 **Author1**
+👤 Hamza Ellaouzi (Hamza)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@hamzaoutdoors](https://github.com/hamzaoutdoors)
+- LinkedIn: [Hamza Ellaouzi](https://www.linkedin.com/in/hamza-ellaouzi-137a45b8/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Hamzaoutdoors/Automated-Testing-Practice-ATP-/issues).
 
 ## Show your support
 
